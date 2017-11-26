@@ -9,7 +9,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/polyfloyd/ilda/ilda"
+	"github.com/polyfloyd/go-ilda-renderer/ilda"
 )
 
 const IMAGE_OUT_WIDTH = 512
